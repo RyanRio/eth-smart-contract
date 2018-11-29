@@ -1,0 +1,24 @@
+{
+  "name": "joshryanfinal",
+  "version": "0.0.0",
+  "description": "Ethereum contract comparisons and bug evaluation",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/18f-money/ryan.git"
+  },
+  "author": "Ryan, Josh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/18f-money/ryan/issues"
+  },
+  "homepage": "https://gitlab.com/18f-money/ryan#README",
+  "dependencies": {
+    "@google-cloud/bigquery": "^2.0.1",
+    "@types/node": "^10.12.3",
+    "typescript": "^3.1.6"
+  }
+}
